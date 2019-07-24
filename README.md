@@ -1,5 +1,5 @@
 # projectEuler
-These are my solutioons (some in Java, some in Python) to the problems of Project Eurler ( https://projecteuler.net/archives )
+These are my solutions (some in Java, some in Python) to the problems of Project Eurler ( https://projecteuler.net/archives )
 
 I'm a Senior Finance Student whose my passions are programming and AI, so I started my career as a programmer in October 2018, when I launched my first app (Wordee) for Android, using Java.
 
