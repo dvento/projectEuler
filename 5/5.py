@@ -11,3 +11,20 @@ What is the smallest positive number that is evenly divisible by all of the numb
 
 '''
 
+
+def findNum():
+    num = 2520
+    success = False
+    print("Calculating...")
+    while not success:
+        for i in range(1,21):
+            if num % i != 0:
+                num +=20
+                success = False
+                break
+            else:
+                success = True
+
+    print("The number is: %i", num)
+
+findNum()
